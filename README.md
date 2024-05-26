@@ -26,9 +26,9 @@
 | 240520 - 240521 |   **[PRO] Lv.1** 문자열을 정수로 바꾸기    | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [📝](programmers/lv1/week02_문자열을_정수로_바꾸기)  |
 | 240522 - 240523 |        **[PRO] Lv.2** 최솟값 만들기        | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12941) |      [📝](programmers/lv2/week02_최솟값_만들기)      |
 | 240524 - 240525 |   **[PRO] Lv.2** JadenCase 문자열 만들기   | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [📝](programmers/lv2/week02_JadenCase_문자열_만들기) |
-|                 |          **[PRO] Lv.1** 약수의 합          | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12928) |           [📝](programmers/lv1/약수의_합)            |
-|                 |     **[PRO] Lv.2** 이진 변환 반복하기      | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |       [📝](programmers/lv2/이진_변환_반복하기)       |
-|                 |         **[PRO] Lv.2** 숫자의 표현         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12924) |          [📝](programmers/lv2/숫자의_표현)           |
+| 240527 - 240528 |          **[PRO] Lv.1** 약수의 합          | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12928) |           [📝](programmers/lv1/약수의_합)            |
+| 240529 - 240530 |     **[PRO] Lv.2** 이진 변환 반복하기      | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |       [📝](programmers/lv2/이진_변환_반복하기)       |
+| 240531 - 240601 |         **[PRO] Lv.2** 숫자의 표현         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12924) |          [📝](programmers/lv2/숫자의_표현)           |
 |                 |        **[PRO] Lv.1** 자릿수 더하기        | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12931) |         [📝](programmers/lv1/자릿수_더하기)          |
 |                 |        **[PRO] Lv.2** 다음 큰 숫자         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |          [📝](programmers/lv2/다음_큰_숫자)          |
 |                 |         **[PRO] Lv.2** 피보나치 수         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12945) |          [📝](programmers/lv2/피보나치_수)           |
