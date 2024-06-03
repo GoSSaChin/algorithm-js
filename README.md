@@ -29,9 +29,9 @@
 | 240527 - 240528 |          **[PRO] Lv.1** 약수의 합          | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12928) |        [📝](programmers/lv1/week03_약수의_합)        |
 | 240529 - 240530 |     **[PRO] Lv.2** 이진 변환 반복하기      | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/70129) |   [📝](programmers/lv2/week03_이진_변환_반복하기)    |
 | 240531 - 240601 |         **[PRO] Lv.2** 숫자의 표현         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12924) |       [📝](programmers/lv2/week03_숫자의_표현)       |
-| 240602 - 240603 |        **[PRO] Lv.1** 자릿수 더하기        | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12931) |      [📝](programmers/lv1/week04_자릿수_더하기)      |
-| 240604 - 240605 |        **[PRO] Lv.2** 다음 큰 숫자         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |      [📝](programmers/lv2/week04_다음_큰_숫자)       |
-| 240606 - 240607 |         **[PRO] Lv.2** 피보나치 수         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12945) |       [📝](programmers/lv2/week04_피보나치_수)       |
+| 240603 - 240604 |        **[PRO] Lv.1** 자릿수 더하기        | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12931) |      [📝](programmers/lv1/week04_자릿수_더하기)      |
+| 240605 - 240606 |        **[PRO] Lv.2** 다음 큰 숫자         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |      [📝](programmers/lv2/week04_다음_큰_숫자)       |
+| 240607 - 240608 |         **[PRO] Lv.2** 피보나치 수         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12945) |       [📝](programmers/lv2/week04_피보나치_수)       |
 |                 | **[PRO] Lv.1** 자연수 뒤집어 배열로 만들기 | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12932) |  [📝](programmers/lv1/자연수_뒤집어_배열로_만들기)   |
 |                 |       **[PRO] Lv.2** 짝지어 제거하기       | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12973) |        [📝](programmers/lv2/짝지어_제거하기)         |
 |                 |            **[PRO] Lv.2** 카펫             | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |              [📝](programmers/lv2/카펫)              |
