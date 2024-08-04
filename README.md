@@ -53,6 +53,6 @@
 | 240722 - 240723 |  ✅  | **[PRO] Lv.1** x만큼 간격이 있는 n개의 숫자 | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12954)  | [📝](programmers/lv1/week11_x만큼_간격이_있는_n개의_숫자) |
 | 240724 - 240725 |  ✅  |       **[PRO] Lv.2** n^2 배열 자르기        | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/87390)  |       [📝](programmers/lv2/week11_n^2_배열_자르기)        |
 | 240726 - 240727 |  ✅  |           **[PRO] Lv.2** H-Index            | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/42747)  |           [📝](programmers/lv2/week11_H-Index)            |
-| 240729 - 240730 |      |  **[PRO] Lv.1** 나머지가 1이 되는 수 찾기   | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/87389)  |  [📝](programmers/lv1/week12_나머지가_1이_되는_수_찾기)   |
-| 240731 - 240801 |      |         **[PRO] Lv.2** 행렬의 곱셈          | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12949)  |         [📝](programmers/lv2/week12_행렬의_곱셈)          |
-| 240802 - 240803 |      |             **[PRO] Lv.2** 의상             | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/42578)  |             [📝](programmers/lv2/week12_의상)             |
+| 240729 - 240730 |  ✅  |  **[PRO] Lv.1** 나머지가 1이 되는 수 찾기   | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/87389)  |  [📝](programmers/lv1/week12_나머지가_1이_되는_수_찾기)   |
+| 240731 - 240801 |  ✅  |         **[PRO] Lv.2** 행렬의 곱셈          | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/12949)  |         [📝](programmers/lv2/week12_행렬의_곱셈)          |
+| 240802 - 240803 |  ✅  |             **[PRO] Lv.2** 의상             | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/42578)  |             [📝](programmers/lv2/week12_의상)             |
