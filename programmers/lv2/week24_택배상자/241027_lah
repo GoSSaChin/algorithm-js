@@ -1,0 +1,57 @@
+[![PRO]][Link]
+
+## 문제 해석
+
+- 물건이 나오는 순서와 택배기사님의 배송 순서가 다르다. 이 상황에서 보조벨트를 이용했을 때 영재가 실을 수 있는 박스의 개수
+  <br/>
+
+## 최종 제출 코드
+
+- for루프를 돌면서 택배기사님이 원하는 택배가 나올 때까지 `STACK`에 쌓기
+- 택배기사님 pick 택배가 나오면 `answer`에 +1 그 다음 순서로 넘어가기
+- `STACK`과 비교해서 택배기사님이 원하는 순서와 같은지 비교 있으면 `STACK`에서 `POP`해주기 그리고 `answer`에 +1
+
+```javascript
+function solution(order) {
+  let answer = 0;
+  const stack = [];
+  let idx = 0; // order배열의 현재 인덱스
+
+  // 물건이 나오는 컨베이어 벨트 순서를 기준
+  for (let i = 1; i <= order.length; i++) {
+    // 택배 기사님 === 컨베이어벨트 순서
+    if (order[idx] === i) {
+      answer += 1;
+      idx += 1; // 다음 물품 이동
+    } else {
+      stack.push(i);
+    }
+
+    // 보조 컨베이어 벨트에서 택배 확인 (stack에서 꺼낼 수 있는 물품 모두 확인)
+    while (stack.length !== 0 && stack.at(-1) === order[idx]) {
+      stack.pop();
+      answer += 1;
+      idx += 1;
+    }
+  }
+
+  return answer;
+}
+```
+
+<br/>
+
+## 시간 복잡도
+
+- **∴ O(n)**
+- `for`루프 : O(n)
+- `while`루프 : O(n)
+
+## 메모
+
+- `at()` : 배열에서 음수 인덱스로의 접근도 가능하게 해줌 (자바스크립트에서는 음수 인덱스로 접근시 `undefined`가 뜸)
+
+<!---------------------------------------------------------------------------->
+
+[PRO]: https://github.com/GoSSaChin/algorithm-js/assets/107768516/67c43b52-bc3f-4571-a249-5519021afbb0
+[Link]: https://school.programmers.co.kr/learn/courses/30/lessons/131704
