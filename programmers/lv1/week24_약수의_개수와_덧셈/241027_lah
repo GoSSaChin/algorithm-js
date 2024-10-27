@@ -1,0 +1,48 @@
+[![PRO]][Link]
+
+## 문제 해석
+
+- 주어진 `left`, `right`까지의 수들 중에, 약수의 개수가 짝수면 더하고, 홀수면 빼기
+
+<br/>
+
+## 최종 제출 코드
+
+- 특정 수의 제곱근을 했을 때 결과값이 정수라면 약수의 개수가 홀수!
+- 주어진 수들을 제곱근해서 정수면 => 홀수 => `-`
+- 반대라면 => `+`
+
+```javascript
+function solution(left, right) {
+  let answer = 0;
+
+  for (let i=left, i<= right, i++) {
+    if (Number.isInteger(Math.sqrt(i))) {
+      answer -= i
+    } else {
+      answer += i
+    }
+  }
+  return answer
+}
+
+```
+
+<br/>
+
+## 시간 복잡도
+
+- **∴ O(n)**
+- 루프 반복 : O(n)
+- 제곱근 계산 : O(1)
+- 정수 판별 : O(1)
+
+## 메모
+
+- `Number.isInteger()` : 주어진 값이 정수인지 판별해서 `true` 혹은 `false` 판별
+- `Math.sqrt()` : 주어진 값의 제곱근을 반환
+
+<!---------------------------------------------------------------------------->
+
+[PRO]: https://github.com/GoSSaChin/algorithm-js/assets/107768516/67c43b52-bc3f-4571-a249-5519021afbb0
+[Link]: https://school.programmers.co.kr/learn/courses/30/lessons/77884
