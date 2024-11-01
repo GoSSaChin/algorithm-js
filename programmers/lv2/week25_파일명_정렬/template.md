@@ -24,4 +24,4 @@
 <!---------------------------------------------------------------------------->
 
 [PRO]: https://github.com/GoSSaChin/algorithm-js/assets/107768516/67c43b52-bc3f-4571-a249-5519021afbb0
-[Link]: https://school.programmers.co.kr/learn/courses/30/lessons/12900
+[Link]: https://school.programmers.co.kr/learn/courses/30/lessons/17686
