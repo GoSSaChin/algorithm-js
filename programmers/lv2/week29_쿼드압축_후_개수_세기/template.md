@@ -2,67 +2,30 @@
 
 ## 문제 해석
 
-- 주어진 `arr`을 쿼드코츠에 맞게 압축하고 0과 1의 개수를 계산하기
+-
 
 <br>
 
 ## 최종 제출 코드
 
-- `compress`라는 재귀함수를 만들어 전체 배열부터 2\*2까지의 크기까지 재귀로 검사
+-
 
 ```js
-function solution(arr) {
-  let result = [0, 0]; // 0의 개수, 1의 개수를 저장
 
-  // 재귀 함수
-  function compress(x, y, size) {
-    let initial = arr[x][y]; // 첫 번째 값을 기준으로 영역을 확인
-    let isUniform = true; // 현재 영역이 모두 같은 값인지 확인하는 플래그
-
-    // 해당 영역이 모두 같은 값인지 확인
-    for (let i = x; i < x + size; i++) {
-      for (let j = y; j < y + size; j++) {
-        if (arr[i][j] !== initial) {
-          // 기준 값이랑 다른 경우
-          isUniform = false; // 압축 불가능
-          break;
-        }
-      }
-      if (!isUniform) break;
-    }
-
-    // 모두 같다면 압축
-    if (isUniform) {
-      result[initial]++;
-    } else {
-      // 그렇지 않다면 4등분하여 재귀 호출
-      let half = size / 2;
-      compress(x, y, half); // 왼쪽 위
-      compress(x, y + half, half); // 오른쪽 위
-      compress(x + half, y, half); // 왼쪽 아래
-      compress(x + half, y + half, half); // 오른쪽 아래
-    }
-  }
-
-  // 시작점 (0, 0)에서 배열 전체 탐색
-  compress(0, 0, arr.length);
-
-  return result;
-}
 ```
 
 <br>
 
 ## 시간 복잡도
 
-- 배열의 크기 N
-- **∴ O(N^2⋅logN)**
+-
+- **∴ O()**
 
 <br>
 
 ## 메모
 
-- 재귀함수의 사용법에 대해 더 많이 공부할 필요가 있다!
+-
 
 <!---------------------------------------------------------------------------->
 
