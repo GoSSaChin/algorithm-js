@@ -152,7 +152,7 @@
 | 250407 - 250408 |  ✅  |          **[PRO] Lv.1** 콜라 문제           | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/132267) |          [📝](programmers/lv1/week44_콜라_문제)           |
 | 250409 - 250410 |  ✅  |           **[PRO] Lv.2** 점 찍기            | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/140107) |           [📝](programmers/lv2/week44_점_찍기)            |
 | 250411 - 250412 |  ✅  |            **[PRO] Lv.2** 후보키            | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/42890)  |            [📝](programmers/lv2/week44_후보키)            |
-| 250414 - 250415 |      |       **[PRO] Lv.1** 푸드 파이트 대회       | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |       [📝](programmers/lv1/week45_푸드_파이트_대회)       |
+| 250414 - 250415 |      |       **[PRO] Lv.1** 푸드 파이트 대회       | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |       [📝](programmers/lv1/week45_푸드파이트_대회)       |
 | 250416 - 250417 |      |        **[PRO] Lv.2** 과제 진행하기         | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |        [📝](programmers/lv2/week45_과제_진행하기)         |
 | 250418 - 250419 |      |       **[PRO] Lv.2** 퍼즐 게임 챌린지       | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/340212) |       [📝](programmers/lv2/week45_퍼즐_게임_챌린지)       |
 | 250421 - 250422 |      |           **[PRO] Lv.1** 비밀지도           | [🖥️](https://school.programmers.co.kr/learn/courses/30/lessons/17681)  |           [📝](programmers/lv1/week46_비밀지도)           |
